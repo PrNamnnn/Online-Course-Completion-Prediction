@@ -83,6 +83,6 @@ This project demonstrates how machine learning can be applied to real-world educ
 It emphasizes both predictive performance and practical usability in online education systems.
 
 
-## Author
+## By
 **Naman Prabhakar**  
 BS in Data Science & Applications, IIT Madras  
